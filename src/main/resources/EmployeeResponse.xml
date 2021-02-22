@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empResponse>
+    <id>1</id>
+    <role>Developer</role>
+    <fullName>Pankaj Kumar</fullName>
+    <phone type="fax">555-555-555</phone>
+    <phone type="mobile">777-777-777</phone>
+</empResponse>
